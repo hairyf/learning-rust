@@ -3,7 +3,7 @@
 This is my learning notes for Rust. There are multiple sources of learning.
 
 1. [course.rs](https://course.rs/)
-3. [Rust Programming Language](https://www.bilibili.com/video/BV15y421h7j7)
+2. [Rust Programming Language](https://www.bilibili.com/video/BV15y421h7j7)
 
 ## Learning Progress
 
