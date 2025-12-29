@@ -26,15 +26,15 @@ This is my learning notes for Rust. There are multiple sources of learning.
 
 #### 1. Introduction
 - [x] 1.3 Cargo `[course.rs]`
-- [x] 1.4 不仅仅是 Hello World `[course.rs]`
+- [x] 1.4 Not Only Hello World `[course.rs]`
 
 #### 2.Basic
 - [x] 2. 入门 `[course.rs]`
-- [x] 2.1 Variables（变量）`[course.rs]`
-  - [x] 变量的不可变性 `[course.rs]`
-  - [x] 变量遮蔽（Shadowing）`[course.rs]`
-  - [x] 变量解构 `[course.rs]`
-  - [x] 未使用的变量 `[course.rs]`
-- [ ] 2.2 基本类型 `[course.rs]`
-  - [ ] 2.2.1 数字类型（进行中）`[course.rs]`
+- [x] 2.1 Variables `[course.rs]`
+  - [x] Immutable Variables `[course.rs]`
+  - [x] Variable Shadowing `[course.rs]`
+  - [x] Variable Destructuring `[course.rs]`
+  - [x] Unused Variables `[course.rs]`
+- [ ] 2.2 Basic Types `[course.rs]`
+  - [ ] 2.2.1 Number Types `[course.rs]`
 
