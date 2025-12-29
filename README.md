@@ -29,7 +29,7 @@ This is my learning notes for Rust. There are multiple sources of learning.
 - [x] 1.4 Not Only Hello World `[course.rs]`
 
 #### 2.Basic
-- [x] 2. 入门 `[course.rs]`
+- [x] 2. Introduction `[course.rs]`
 - [x] 2.1 Variables `[course.rs]`
   - [x] Immutable Variables `[course.rs]`
   - [x] Variable Shadowing `[course.rs]`
